@@ -12,3 +12,12 @@ this is how to do header with one "#" then 2 then 3 ...
 
 horizontal rule is "---"
 ---
+
+to do italic "*" before and avfter the sentace.
+
+*This will be italic*
+
+to do bold "**" before the sentace 
+
+**This will be bold**
+
