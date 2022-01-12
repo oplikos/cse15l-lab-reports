@@ -1,7 +1,48 @@
-![image](https://user-images.githubusercontent.com/44330982/149235913-79fe6746-ad3a-4fc2-b7e4-35c67d25bc12.png)
-![image](https://user-images.githubusercontent.com/44330982/149236023-d1d88644-dcb7-45e1-984e-2f690bd21a4f.png)
-![image](https://user-images.githubusercontent.com/44330982/149236099-e3b8ce86-619a-4017-b76a-a7b5bf3966fa.png)
-![image](https://user-images.githubusercontent.com/44330982/149236163-8e7921c0-7988-4b29-9e4b-4bb5a8e94a60.png)
-![image](https://user-images.githubusercontent.com/44330982/149236251-9edafa4b-693b-4f38-861a-33aa74ccc5c7.png)
-![image](https://user-images.githubusercontent.com/44330982/149236298-46285044-1b77-4a96-829e-51b86e2a007e.png)
-![image](https://user-images.githubusercontent.com/44330982/149236338-3c603285-d3d6-4dce-8fc2-8c714b6e623b.png)
+
+# ***Lab report of the first week lab***
+---
+Auther: **[Sarkis Bouzikian](https://github.com/oplikos)**
+
+
+---
+in class 
+[Example.md](https://oplikos.github.io/cse15l-lab-reports/example.html)
+off creating Hello! page on github**
+
+---
+* Part 1
+---
+![image](./1.png)
+
+---
+
+* Part 2
+---
+![image](./2.png)
+
+---
+* Part 3
+---
+![image](./3.png)
+
+---
+* Part 4
+---
+![image](./4.png)
+
+---
+* Part 5
+---
+![image](./5.png)
+
+---
+* Part 6
+---
+![image](./5.5.png)
+
+---
+* Part 7
+---
+![image](./6.png)
+
+---
