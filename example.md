@@ -1,8 +1,8 @@
 Hello
 this is how to do header with one "#" then 2 then 3 ...
-# header one by default biger font
+# header one by default bigger font and gets underline
 
-## two hashtage and smaller font
+## two hashtage and smaller font and by default it gets underline
 
 ###  three hashtages 
 
