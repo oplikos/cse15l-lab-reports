@@ -1,6 +1,7 @@
 
  # <span style="text-align: center; color: red;">***Welcome***</span>
-
+ 
+ ---
  <span style="color: green;">to Lab report of  **[Sarkis Bouzikian](https://github.com/oplikos)** week 2 
 the following 2 part is week 2 activity links such as </span>
 
