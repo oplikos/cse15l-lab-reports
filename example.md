@@ -1,6 +1,6 @@
 Hello
 this is how to do header with one "#" then 2 then 3 ...
-# header one by default biiger faont
+# header one by default biger font
 
 ## two hashtage and smaller font
 
