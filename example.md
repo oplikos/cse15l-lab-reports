@@ -1,19 +1,19 @@
 Hello
 this is how to do header with one "#" then 2 then 3 ...
-# header one
+# header one by default biiger faont
 
-## header two
+## two hashtage and smaller font
 
-### header three
+###  three hashtages 
 
-#### header four
+####  four hashtages
 
-##### header five
+##### header five hashtages
 
-horizontal rule is "---"
+horizontal rule under this title is "---"
 ---
 
-to do italic "*" before and avfter the sentace.
+to do italic "*" before and after the sentace.
 
 *This will be italic*
 
