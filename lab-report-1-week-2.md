@@ -47,4 +47,4 @@ off creating Hello! page on github**
 ![image](./6.png)
 
 ---
-[1]: http://https://code.visualstudio.com/docs?dv=win
+[1]: https://code.visualstudio.com/docs
