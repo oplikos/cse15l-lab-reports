@@ -22,11 +22,10 @@ to do bold "**" before the sentace
 **This will be bold**
 
 ```
-# code block
-print '3 backticks or'
-print 'indent 4 spaces'
+# by using the brackticks markdown   
+will intent the paragraphe in between the
+3 backtricks by 4 spaces or if you use it in same line
+
 ```
 
-····# code block
-····print '3 backticks or'
-····print 'indent 4 spaces'
+
