@@ -11,7 +11,7 @@ off creating Hello! page on github**
 
 ---
 * Part 1
-  this part is the proof to have installed the Virtual studio code by following this link [click here]: http://https://code.visualstudio.com/docs?dv=win
+  this part is the proof to have installed the Virtual studio code by following this link [click here][1]
 ---
 ![image](./1.png)
 
@@ -47,3 +47,4 @@ off creating Hello! page on github**
 ![image](./6.png)
 
 ---
+[1]: http://https://code.visualstudio.com/docs?dv=win
