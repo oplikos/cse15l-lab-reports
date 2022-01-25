@@ -21,3 +21,12 @@ to do bold "**" before the sentace
 
 **This will be bold**
 
+```
+# code block
+print '3 backticks or'
+print 'indent 4 spaces'
+```
+
+····# code block
+····print '3 backticks or'
+····print 'indent 4 spaces'
