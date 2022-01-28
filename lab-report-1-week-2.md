@@ -6,15 +6,15 @@ Auther: **[Sarkis Bouzikian](https://github.com/oplikos)**
 * Im studing [computer engineering at UCSD][2]
 * currently student of [Revelle College][3]
 ---
-week 2 of CSE15L we did some example work on testing diffrent layout Using MarkDown style in [Github][4] 
-to explore the diffretn output of Markdown assgiment [Click here Example.md](https://oplikos.github.io/cse15l-lab-reports/example.html)
+In week 2 of CSE15L, we did some example work on testing different layouts Using the MarkDown style in [Github][4] 
+to explore the different output of Markdown assignment [Click here Example.md](https://oplikos.github.io/cse15l-lab-reports/example.html)
 
 ---
 # The following is the week 1 activity
 ---
 ## Part 1
   
-  the following image is the proof of succecsfuly installing the Virtual studio code by following this link [click here][1]
+  the following image is the proof of successfully installing the Virtual studio code by following this link [click here][1]
   
 ---
 ![image](./1.png)
@@ -23,8 +23,8 @@ to explore the diffretn output of Markdown assgiment [Click here Example.md](htt
 
 ## Part 2
  ```
-for this part i had some issue with my vscode i wasnt able to connect to the school server using my vscode but then
-i used moaXtreamto access school server (other class account and remotly from that class access this class sshdoing the 
+for this part I had some issues with my vscode I wasn't able to connect to the school server using my vscode but then
+I used moaXtreamto access the school server (other class account and remotely from that class access this class by studying the 
  ```
 ![image](./2.png)
 
@@ -32,7 +32,7 @@ i used moaXtreamto access school server (other class account and remotly from th
 ## Part 3
 ---
 
-Im a window user for that reason i had to downloed a program called
+I use the window operating system for that reason I had to download a program called
 OpenSSH, which is a program that can connect your computer to other computers
 that have this kind of account:
 [Install OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)
@@ -82,7 +82,7 @@ running some commands in the terminal susch as
 ---
 ## Part 5
 ---
-this part was about to creat a java file with the following code 
+this part was about to create a java file with the following code 
 
 ```
 class WhereAmI {
@@ -94,7 +94,7 @@ class WhereAmI {
   }
 }
 ```
-and save it the local computer then 
+and save it to the local computer then 
 using `scp command 
 ```
 scp WhereAmI.java cs15lwi22zz@ieng6.ucsd.edu:~/
@@ -110,9 +110,9 @@ sending it to the remote computer
 ---
 ## Part 6
 ---
-this part is to creat ssh-keygen, creates a pair of files called the public key and private key to gain easy access to our personal class directory
+this part is to create ssh-keygen, which creates a pair of files called the public key and private key to gain easy access to our class directory
 
-the following should be the set of code to expect but when we first did it ssh wasnt working on my local computer so i had delet ssh client and reinstall it to work (incase window user gets this kind of errors
+the following should be the set of code to expect but when we first did it ssh wasn't working on my local computer so I had to delete the ssh client and reinstall it to work (in case a window user gets this kind of error
 
 ```
 # on client (your computer)
@@ -125,7 +125,7 @@ Your identification has been saved in /Users/joe/.ssh/id_rsa.
 Your public key has been saved in /Users/joe/.ssh/id_rsa.pub.
 The key fingerprint is:
 SHA256:jZaZH6fI8E2I1D35hnvGeBePQ4ELOf2Ge+G0XknoXp0 joe@Joes-Mac-mini.local
-The key's randomart image is:
+The key's random art image is:
 +---[RSA 3072]----+
 |                 |
 |       . . + .   |
@@ -147,11 +147,11 @@ If you're on Windows, follow the extra `ssh-add` steps here: [https://docs.micro
 ## Part 7
 ---
 
-this part is when we i did it first time my ssh didnt work so i had to redot this week and counted
-how many keystroks took me to run the commend 
+this part is when i did it the first time my ssh didn't work so I had to redo this week and counted
+how many keystrokes took me to run the commend 
 starting by selecting the code  it was
 `select->ctr+C->click->crt+v->enter->click->select->crt+c->click->ctr+v->enter`
-in totale of `11` key strocks to complet the assigment 
+in total of `11` key strokes to complete the assignment 
 
 ![image](./6.png)
 
