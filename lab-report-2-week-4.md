@@ -34,7 +34,7 @@ in this part, we realized in week 4 test 7 from the assignment that our approach
 
 to trace the History of this edit please click on the [link][2] 
 
-![image](./w4-fix-2 .jpg)
+![image](./w4-fix-2.jpg)
 
 the following the screenshot of the error 
 
