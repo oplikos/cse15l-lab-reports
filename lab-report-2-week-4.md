@@ -25,7 +25,7 @@ to trace the History of this edit please click on the [link][1]
 
 the following the screenshot of the error 
 
-![image](./first error screen shot.jpg)
+![image](./error2.jpg)
 
 ---
 ## Fix 2
