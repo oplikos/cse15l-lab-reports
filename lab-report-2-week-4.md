@@ -23,6 +23,8 @@ to trace the History of this edit please click on the [link][1]
 
 ![image](./w4-fix-1.jpg)
 
+the following the screenshot of the error 
+![image](./error1.jpg)
 ---
 ## Fix 2
 ---
@@ -32,6 +34,8 @@ to trace the History of this edit please click on the [link][2]
 
 ![image](./w4-fix-2 .jpg)
 
+the following the screenshot of the error 
+![image](./first error screen shot.jpg)
 ---
 ## Fix 3
 ---
