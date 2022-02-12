@@ -1,5 +1,5 @@
 
-# ***Lab report of the first week lab***  [BACK TO MAIN](https://oplikos.github.io/cse15l-lab-reports/){: .btn}
+# ***Lab report of the first week lab***  
 ---
 Auther: **[Sarkis Bouzikian](https://github.com/oplikos)**
 ---
