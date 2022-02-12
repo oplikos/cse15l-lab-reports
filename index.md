@@ -19,7 +19,7 @@ off creating Hello! page on github**
 
 ---
 
- <span style="color: orange;">in class lab report from week 3 - 4  
+ <span style="color: orange;">in class lab report from week 3 - 4
 [lab-report-1-week-4.md](https://oplikos.github.io/cse15l-lab-reports/lab-report-2-week-4.html)</span>
 
 ---
