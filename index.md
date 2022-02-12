@@ -7,8 +7,8 @@ the following 2 part is week 2 activity links such as </span>
 
 
 ---
- <span style="color: purple;">**in class  
-[Example.md](https://oplikos.github.io/cse15l-lab-reports/example.html)
+ <span style="color: purple;">**in class 
+ [Example.md](https://oplikos.github.io/cse15l-lab-reports/example.html)
 off creating Hello! page on github**
 </span>
 
