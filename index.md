@@ -15,16 +15,22 @@ off creating Hello! page on github**
 ---
 
  <span style="color: orange;">in class lab report from week 1 - 2
-[lab-report-1-week-2.md](https://oplikos.github.io/cse15l-lab-reports/lab-report-1-week-2.html)</span>
+[link](https://oplikos.github.io/cse15l-lab-reports/lab-report-1-week-2.html)</span>
 
 ---
 
  <span style="color: orange;">in class lab report from week 3 - 4
-[lab-report-2-week-4.md](https://oplikos.github.io/cse15l-lab-reports/lab-report-2-week-4.html)</span>
+[link](https://oplikos.github.io/cse15l-lab-reports/lab-report-2-week-4.html)</span>
 
 ---
 
 <span style="color: orange;">in class lab report from week 5 - 6 
-[lab-report-3-week-6.md](https://oplikos.github.io/cse15l-lab-reports/lab-report-3-week-6.html)</span>
+[link](https://oplikos.github.io/cse15l-lab-reports/lab-report-3-week-6.html)</span>
 
 ---
+<span style="color: orange;">Markdown-parse rep
+[markdown-parse](https://github.com/oplikos/markdown-parse)</span>
+ 
+ ---
+
+ 
