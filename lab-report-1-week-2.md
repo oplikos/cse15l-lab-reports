@@ -1,5 +1,5 @@
 
-# ***Lab report of the first week lab***
+# ***Lab report of the first week lab***  [BACK TO MAIN](https://oplikos.github.io/cse15l-lab-reports/){: .btn}
 ---
 Auther: **[Sarkis Bouzikian](https://github.com/oplikos)**
 ---
@@ -160,3 +160,5 @@ in total of `11` key strokes to complete the assignment
 [2]: https://ece.ucsd.edu/undergraduate/undergraduate-programs/computer-engineering-major
 [3]: https://builder.guidebook.com/g/#/guides/revelle/details
 [4]: https://github.com/
+
+ [BACK TO MAIN](https://oplikos.github.io/cse15l-lab-reports/){: .btn}
