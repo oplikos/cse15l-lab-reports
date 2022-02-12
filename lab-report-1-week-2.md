@@ -161,8 +161,4 @@ in total of `11` key strokes to complete the assignment
 [3]: https://builder.guidebook.com/g/#/guides/revelle/details
 [4]: https://github.com/
 
- [BACK TO MAIN](https://oplikos.github.io/cse15l-lab-reports/){: .btn}
- https://oplikos.github.io/cse15l-lab-reports/
-<button name="BACK TO MAIN">Click me<https://oplikos.github.io/cse15l-lab-reports/>
-  
-  <button name="button">Click me</button>
+ 
