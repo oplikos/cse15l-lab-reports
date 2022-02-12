@@ -75,3 +75,4 @@ to trace the History of this edit please click on the [link][3]
 [1]: https://github.com/oplikos/markdown-parse/commit/11a377c7d99b38fe39f6127d603209bc1ff5365f#diff-c703a0ec03474d601c6bf846740b293e0538bccf38d5f677a302457479e9c652
 [2]: https://github.com/oplikos/markdown-parse/commit/571de421522bb9d64c11f2aff46b6540791a31e3#diff-c703a0ec03474d601c6bf846740b293e0538bccf38d5f677a302457479e9c652
 [3]: https://github.com/oplikos/markdown-parse/commit/1dc9867bdf3cbd19b3de727ab515719403b6435c#diff-c703a0ec03474d601c6bf846740b293e0538bccf38d5f677a302457479e9c652
+ [BACK TO MAIN](https://oplikos.github.io/cse15l-lab-reports/){: .btn}
