@@ -3,12 +3,13 @@
 ---
 Auther: **[Sarkis Bouzikian](https://github.com/oplikos)**
 ---
-part1:
+# Part 1:
 
 ---
-[MarkdownParse repository link](https://github.com/oplikos/markdown-parse)
+[My MarkdownParse repository link](https://github.com/oplikos/markdown-parse)
+[MarkdownParse that i reviewed repository link](https://github.com/P2fryang/markdown-parse)
 ---
-part2:
+# Part 2:
 
 according to the commonmark.js and individually investigating the snippet file in Github the result for the 
 ```
@@ -21,7 +22,7 @@ only the following links got active when the snippet file are introduced to comm
 ![commonmark.js](common-mark-js.jpg)
 
 ---
-part3:
+# Part 3:
 
 ---
 the following picture is the 6 test cases first 3 is the test case using my markdown parser and the remaining is the other group's revied code for markdownparse
