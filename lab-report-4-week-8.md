@@ -44,17 +44,17 @@ the following picture is the result of all the test cases mine and the other gro
 
 ---
 
-# **Part4:** 
+# **Part 4:** 
 
 ---
 
-for **snippet1:** yes there can be an easy fix by adding a condition check before the ```"["``` to check if it contains any char so that the following can not be considered as link
+for **Snippet 1:** yes there can be an easy fix by adding a condition check before the ```"["``` to check if it contains any char so that the following can not be considered as link
 
 ---
-for **snippet2:** not sure if there is an easy fix my code managed to read the nested link which the GitHub and commamark.js failed to realized that and was able to clear out unnecessary char from the link ```a.com(())``` my code fixed that to a.com without ```(())``` to fix the second is to check if there is an open ```"("``` right after the to keep reading until it gets a 2 ```")"``` is there is more the integer keeps adding up (maybe a recursive function will do the job) but for the nested link I think my code performed better then the markdown itself cause it was able to read the nested link
+for **Snippet 2:** not sure if there is an easy fix my code managed to read the nested link which the GitHub and commamark.js failed to realized that and was able to clear out unnecessary char from the link ```a.com(())``` my code fixed that to a.com without ```(())``` to fix the second is to check if there is an open ```"("``` right after the to keep reading until it gets a 2 ```")"``` is there is more the integer keeps adding up (maybe a recursive function will do the job) but for the nested link I think my code performed better then the markdown itself cause it was able to read the nested link
 
 ---
-for **snippet3:** my code failed to read the actual valid link but was able to pick up the one after with return so to fix this issue I can add a simple stop looking for ```")"``` when there is a ```"\n"``` return char and to fix the part (that didn't read the link I think is possible to change the while loop to keep on looking the for link after ( even when there is a return char 
+for **Snippet 3:** my code failed to read the actual valid link but was able to pick up the one after with return so to fix this issue I can add a simple stop looking for ```")"``` when there is a ```"\n"``` return char and to fix the part (that didn't read the link I think is possible to change the while loop to keep on looking the for link after ( even when there is a return char 
 
 ---
 [BACK TO MAIN](https://oplikos.github.io/cse15l-lab-reports/)
