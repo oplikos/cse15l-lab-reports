@@ -33,6 +33,11 @@ off creating Hello! page on github**
 [link](https://oplikos.github.io/cse15l-lab-reports/lab-report-4-week-8.html)</span>
 
 ---
+
+<span style="color: orange;">in class lab report from week 9 - 10 
+[link](https://oplikos.github.io/cse15l-lab-reports/lab-report-5-week-10.html)</span>
+
+---
 <span style="color: orange;">Markdown-parse rep 
 [markdown-parse](https://github.com/oplikos/markdown-parse)</span>
  
