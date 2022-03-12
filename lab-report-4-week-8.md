@@ -3,6 +3,8 @@
 ---
 Auther: **[Sarkis Bouzikian](https://github.com/oplikos)**
 ---
+[lab report 4 link](https://ucsd-cse15l-w22.github.io/week/week8/#week-8-lab-report)
+---
 
 # Part 1:
 
