@@ -3,8 +3,12 @@
 ---
 Auther: **[Sarkis Bouzikian](https://github.com/oplikos)**
 ---
+[lab report 1 link](https://ucsd-cse15l-w22.github.io/week/week2/#week-2-lab-report)
+---
+
 * Im studing [computer engineering at UCSD][2]
 * currently student of [Revelle College][3]
+
 ---
 In week 2 of CSE15L, we did some example work on testing different layouts Using the MarkDown style in [Github][4] 
 to explore the different output of Markdown assignment [Click here Example.md](https://oplikos.github.io/cse15l-lab-reports/example.html)
