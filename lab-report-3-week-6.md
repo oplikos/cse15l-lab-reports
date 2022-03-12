@@ -3,6 +3,8 @@
 ---
 Auther: **[Sarkis Bouzikian](https://github.com/oplikos)**
 ---
+[lab report 3 link](https://ucsd-cse15l-w22.github.io/week/week6/#week-6-lab-report)
+---
 ## The Choice going with Streamlining ssh Configuration
 ---
 ```
