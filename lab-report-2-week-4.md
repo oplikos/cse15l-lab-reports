@@ -3,6 +3,8 @@
 ---
 Auther: **[Sarkis Bouzikian](https://github.com/oplikos)**
 ---
+[Lab report 2 page](https://ucsd-cse15l-w22.github.io/week/week4/#week-4-lab-report)
+---
 ## Fix 1
 ---
 In the week 3 lab the understanding of the software and its bugs were limited but when we start the lab everything became clear.
