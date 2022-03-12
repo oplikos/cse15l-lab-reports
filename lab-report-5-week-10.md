@@ -3,10 +3,7 @@
 ---
 Auther: **[Sarkis Bouzikian](https://github.com/oplikos)**
 ---
-
-just in case you want to check the markdown parse (mine) and the markdown pasee (main) and the files created (me.txt main.txt result.txt)
-[click here](https://github.com/oplikos/markdown-parse/tree/main/markdown-parse-main-week9)
-
+[Lab Report 5](https://ucsd-cse15l-w22.github.io/week/week10/#lab-report-5)
 ---
 
 running bash on my script.
@@ -66,5 +63,11 @@ result of fixing both issues
 as shown in the last picture the bash command on my markdown parse this time given only one exception error where at the beginning was way too many and from  the other picture I can see that from the file 14 till 194 I have no issues where before I had plenty by fixing those 2 issues i reduce the mismatches to 10% 
 
 ![FIX1AND2](FIX1AND2.jpg)
+
+
+just in case you want to check the markdown parse (mine) and the markdown parse (main) and the files created (me.txt main.txt result.txt)
+[click here](https://github.com/oplikos/markdown-parse/tree/main/markdown-parse-main-week9)
+
+Thank you:
 ---
 [BACK TO MAIN](https://oplikos.github.io/cse15l-lab-reports/)
