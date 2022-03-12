@@ -4,7 +4,8 @@
 Auther: **[Sarkis Bouzikian](https://github.com/oplikos)**
 ---
 
-# Part 1:
+just in case you want to check the markdown parse (mine) and the markdown pasee (main) and the files created (me.txt main.txt result.txt)
+[click here](https://github.com/oplikos/markdown-parse/tree/main/markdown-parse-main-week9)
 
 ---
 
