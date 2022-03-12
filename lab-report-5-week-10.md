@@ -12,7 +12,7 @@ running bash on my script.
 
 ![running bash on my code](mtScript.jpg)
 
-my scripte results
+my script results
 
 ![My script result](myscriptresult.jpg)
 
@@ -20,37 +20,50 @@ changing scripts to run on main markdown parse
 
 ![changing Script to main](mainscript.jpg)
 
-running bash script on main and exporting result to main.txt and then do ```diff```
+running bash script on the main and exporting result to main.txt and then do ```diff```
 
-![changing and running script on main and export to main then use diff to compair files](changingandrunningbashtomaintxt.jpg)
+![changing and running the script on main and export to main then use diff to compare files](changingandrunningbashtomaintxt.jpg)
 
-compairing the results and checking what whent wrong 
+comparing the results and checking what went wrong 
 
 ![checking diff result](checkindiffresult.jpg)
 
-acording to my bash run i can see that i have couple resultes fail due to 
+according to my bash run, I can see that I have a couple of results fail due to 
 ```
 java.lang.StringIndexOutOfBoundsException:
 ```
-and the test file 148 and 149 i got exported link where the main code did not
+and the test file 148 and 149 I got exported link where the main code did not
 
-for the file 148 and 149 i got result because ive changed my code completly and made it as it reads the ```.``` and grabs the link that is in between the ```(  )``` but that approch of my code failed due that the file 148 and 149 dont containe any links which will not produce proper result
+for files 148 and 149 I got results because ive changed my code completely and made it as it reads the ```.``` and grabs the link that is in between the ```(  )``` but that approach of my code failed due to that the file 148 and 149 don't contain any links which will not produce the proper result
 
 ![mayc code wrong part](mycodewrongpart.jpg)
 
-fix: i should add anif statment where if there is not words after ```.``` in this case i should not grab the link name and add it to the array so skipping the sentancese that are not complite as a link 
+fix: I should add an if statement where if there are no words after ```.``` in this case I should not grab the link name and add it to the array so skipping the sentences that are not complete as a link 
 
 
-and the part that ```java.lang.StringIndexOutOfBoundsException:``` to examin this issue i run the bash solo to see which files are causing it and open those file up to see what is common issue in between 
+and the part that ```java.lang.StringIndexOutOfBoundsException:``` to examine this issue I run the bash solo to see which files are causing it and open those files up to see what is a common issue in between 
 
-![where the exaption is happening](otherfilessameissue.jpg)
+![where is going wrong](manualycheckingfile.jpg)
+
+![where the exception is happening](otherfilessameissue.jpg)
 
 the file 259 for example 
 
-![file 259](file250.jpg)
+![file 259](file259.jpg)
 
-and the issue nited in here that the file 259 and the other one dont contain any ``` [ , ] , ( , ) ``` which is the result should be emptystring but my code is crushing to fix this issue all i have to do is check if the file dose not contain any ``` [ , ] , ( , ) ``` then return empty string.
+and the issue noted here is that file 259 and the other one don't contain any ``` [, ], (, ) ``` which is the result should be an empty string but my code is crushing to fix this issue all I have to do is check if the file does not contain any ``` [, ], (, ) ``` then return an empty string.
+
+fix: adding an if statement to check if there is ```[``` in the file 
+
+result of fixing both issues 
+
+![fixed Both Issues including 259](fixedBothIssues.jpg)
+
+![result](yup.jpg)
 
 
+as shown in the last picture the bash command on my markdown parse this time given only one exception error where at the beginning was way too many and from  the other picture I can see that from the file 14 till 194 I have no issues where before I had plenty by fixing those 2 issues i reduce the mismatches to 10% 
+
+![FIX1AND2](FIX1AND2.jpg)
 ---
 [BACK TO MAIN](https://oplikos.github.io/cse15l-lab-reports/)
